@@ -287,7 +287,7 @@ MIT
 
 ## 👨‍💻 Author
 
-Built for Voosh Full Stack Developer Assignment
+Md Izharul Ansari
 
 ---
 
